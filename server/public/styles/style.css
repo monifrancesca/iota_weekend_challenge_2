@@ -1,0 +1,20 @@
+.crop {
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+}
+
+.crop img {
+    height: 100px;
+    width: auto;
+}
+
+.centerImage {
+    text-align:center;
+    display:block;
+}
+
+.person-box {
+    text-align: center;
+    background-color: #67b168;
+}
